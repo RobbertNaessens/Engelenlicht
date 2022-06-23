@@ -131,6 +131,10 @@ td.producten {
   padding: 20px;
   margin: 5px;
   box-shadow: 2px 2px 10px rgb(81, 54, 72), 2px 2px 10px grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .product-image {
